@@ -1,0 +1,4 @@
+{
+  "Konor McGregor": {"actions": ["jab", "takedown"], "damages": [10, 20]},
+  "Khabib Nurmagomedov": {"actions": ["hook", "mavashi"], "damages": [15, 15]}
+}
